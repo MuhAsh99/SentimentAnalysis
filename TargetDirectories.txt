@@ -1,0 +1,3 @@
+/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/CMakeFiles/pa01_sentiment.dir

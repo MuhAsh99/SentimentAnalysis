@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="pa01_sentiment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\data\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa01_sentiment">
+				<Option output="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/pa01_sentiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa01_sentiment"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pa01_sentiment/fast">
+				<Option output="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/pa01_sentiment" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 pa01_sentiment/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/DSString.cpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/DSString.h">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/DSStringTest.cpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/Parse.cpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/Parse.h">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/Words.cpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/Words.h">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/catch.hpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/main.cpp">
+			<Option target="pa01_sentiment"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/data/test_dataset_10k.csv">
+			<Option virtualFolder="CMake Files\data\"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/data/test_dataset_sentiment_10k.csv">
+			<Option virtualFolder="CMake Files\data\"/>
+		</Unit>
+		<Unit filename="/Users/muhammad/Desktop/CS2341/22s-2341-pa01-MuhAsh99/data/train_dataset_20k.csv">
+			<Option virtualFolder="CMake Files\data\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
